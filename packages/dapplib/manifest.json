@@ -1,0 +1,9 @@
+{
+    "name": "myDap",
+    "blocks": {
+        "/blockchain/matic": true,
+        "/blockchain/matic/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/contract_runstate": true
+    }
+}
